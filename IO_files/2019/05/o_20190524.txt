@@ -1,0 +1,3 @@
+The Minimum execution time of smart phone : 60
+The Minimum execution time of smart phone : 100
+-1

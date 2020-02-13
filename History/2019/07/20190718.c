@@ -1,0 +1,2 @@
+char* a; void main(void) {printf(a); putchar(13); putchar(34); printf(a); putchar(34); putchar(';');}char* a=
+"char* a; void main(void) {printf(a); putchar(13); putchar(34); printf(a); putchar(34); putchar(';');}char* a=";
